@@ -95,12 +95,12 @@ open_to:
 
 <h4 align="center">── Frontend ──</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
 </p>
 
 <h4 align="center">── Backend & Databases ──</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,firebase&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql&theme=dark&perline=6" />
 </p>
 
 <h4 align="center">── AI / ML ──</h4>
